@@ -30,10 +30,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Knex
 - JWT
 - Multer
+- Cors
 
 ##
 
+## 🔨 Layout
+Layout do projeto no figma: https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1
+##
+
 ## 💡 Utilização
+
+Deploy: https://foodxplorer1.netlify.app/
 
   Você também pode executá-la em sua máquina localmente. Certifique-se de ter o Node.js e o npm instalados antes de prosseguir com as etapas abaixo:
 
